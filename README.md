@@ -6,8 +6,11 @@ src `https://debbie.codes/blog/building-your-first-mcp-server-a-beginners-tutori
 ## OBJECTIVES
 
 ✅ Create a functional MCP server from scratch
+
 ✅ Integrate a real-time weather data from an external API
+
 ✅ Connect the MCP to VS Code and GitHub Copilot
+
 ✅ Learn the fundamentals of the Model Context Protocol
 
 ## RESOURCES USED
