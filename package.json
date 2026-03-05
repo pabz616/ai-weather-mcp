@@ -1,0 +1,25 @@
+{
+  "name": "ai-weather-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP Tutorial using Typescript and weather.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabz616/ai-weather-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabz616/ai-weather-mcp/issues"
+  },
+  "homepage": "https://github.com/pabz616/ai-weather-mcp#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^4.3.6"
+  }
+}
