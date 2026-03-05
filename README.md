@@ -10,8 +10,8 @@ src `https://debbie.codes/blog/building-your-first-mcp-server-a-beginners-tutori
 ✅ Connect the MCP to VS Code and GitHub Copilot
 ✅ Learn the fundamentals of the Model Context Protocol
 
-## RESOURCES
+## RESOURCES USED
 
 1. MCP SDK for the MCP Server - `npm install @modelcontextprotocol/sdk`
 2. ZOD for data validation - `npm install zod`
-3. 
+3. Open-Meteo Weather API - Free weather data service - `https://open-meteo.com/`
